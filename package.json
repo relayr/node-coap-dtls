@@ -37,7 +37,7 @@
     "bl": "~1.0.0",
     "capitalize": "^1.0.0",
     "coap-packet": "~0.1.12",
-    "node-mbed-dtls": "git+https://github.com/relayr/node-mbed-dtls",
+    "node-mbed-dtls": "git+https://github.com/relayr/node-mbed-dtls/#master",
     "debug": "^2.2.0",
     "fastseries": "^1.7.0",
     "lru-cache": "~4.0.0",
