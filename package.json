@@ -1,5 +1,5 @@
 {
-  "name": "coap-dtls",
+  "name": "@gpolakow/coap-dtls",
   "version": "0.17.0",
   "description": "A CoAP library for node modelled after 'http'",
   "main": "index.js",
@@ -25,6 +25,7 @@
     "messaging"
   ],
   "author": "Matteo Collina <hello@matteocollina.com>",
+  "contributors":["Grzegorz Polaków"],
   "license": "MIT",
   "devDependencies": {
     "pre-commit": "0.0.9",
@@ -37,7 +38,7 @@
     "bl": "~1.0.0",
     "capitalize": "^1.0.0",
     "coap-packet": "~0.1.12",
-    "node-mbed-dtls": "git+https://github.com/relayr/node-mbed-dtls/#master",
+    "@gpolakow/node-mbed-dtls": "^2.4.4",
     "debug": "^2.2.0",
     "fastseries": "^1.7.0",
     "lru-cache": "~4.0.0",
