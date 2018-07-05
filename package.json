@@ -1,6 +1,6 @@
 {
   "name": "@gpolakow/coap-dtls",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "description": "A CoAP library for node modelled after 'http'",
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "bl": "~1.0.0",
     "capitalize": "^1.0.0",
     "coap-packet": "~0.1.12",
-    "@gpolakow/node-mbed-dtls": "^2.4.4",
+    "@gpolakow/node-mbed-dtls": "^2.4.6",
     "debug": "^2.2.0",
     "fastseries": "^1.7.0",
     "lru-cache": "~4.0.0",
